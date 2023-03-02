@@ -1,0 +1,9 @@
+.app-filter{
+    display: flex;
+    column-gap: 10px;
+}
+
+.btn-group{
+    margin-top: 20px;
+}
+
